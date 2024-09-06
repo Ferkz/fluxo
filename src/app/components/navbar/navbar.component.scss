@@ -1,0 +1,18 @@
+.app-header{
+  button{
+    margin: 0 16px;
+  }
+  .spacer {
+    flex: 1 1 auto;
+  }
+  .logo{
+    width: 60px;
+    height: 60px;
+  }
+  .mat-toolbar{
+    background-color: #154c79;
+    color: white;
+    padding: 0 256px;
+  }
+}
+
